@@ -1,0 +1,7 @@
+AllCops:
+  Exclude:
+    - 'vendor/**/*'
+    - 'test/fixtures/**/*'
+
+Style/Encoding:
+  Enabled: true
